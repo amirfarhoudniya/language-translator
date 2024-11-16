@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>change.png</file>
+        <file>clipboard.png</file>
+        <file>translate.ico</file>
+    </qresource>
+</RCC>
